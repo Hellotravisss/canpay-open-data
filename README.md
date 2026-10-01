@@ -2,7 +2,7 @@
 
 Open dataset of **net take-home pay, income tax, CPP/CPP2 and EI by province and income level** for the **2026** tax year, computed from the transparent rules engine behind [CanPay Insights](https://canpayinsights.ca) — a free Canadian take-home-pay calculator.
 
-**455 rows** — 13 provinces & territories × 35 income levels ($30,000–$200,000).
+**Version 2026-09-15** (mirrors https://canpayinsights.ca/data; the site is the source of truth). **455 rows** — 13 provinces & territories × 35 income levels ($30,000–$200,000).
 
 ## Files
 - [`canpay-take-home-2026.csv`](canpay-take-home-2026.csv) — 455 rows, 14 columns
@@ -15,10 +15,10 @@ Open dataset of **net take-home pay, income tax, CPP/CPP2 and EI by province and
 ## Sample — take-home on an $80,000 salary (2026)
 | Province | Net (annual) |
 |---|---|
-| British Columbia | $61,038 |
-| Ontario | $60,744 |
-| Alberta | $60,409 |
-| Quebec | $57,077 |
+| British Columbia | $61,157 |
+| Ontario | $60,303 |
+| Alberta | $60,698 |
+| Quebec | $57,012 |
 
 ## Methodology
 Published 2026 rates from the CRA, Revenu Québec, and each province/territory:
